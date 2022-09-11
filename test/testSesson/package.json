@@ -1,0 +1,21 @@
+{
+  "name": "testSesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.4",
+    "koa-router": "^12.0.0",
+    "koa-session": "^6.2.0",
+    "pnpm": "^7.11.0"
+  }
+}
